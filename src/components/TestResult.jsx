@@ -178,7 +178,7 @@ const ServerStatus = ({ result }) => {
       <TextField
         error
         id="outlined-error"
-        defaultValue="Hello World"
+        defaultValue="Refresh IP"
         value={refreshIp}
         sx={{
           input: { color: "white" }, // Targets the input text color
