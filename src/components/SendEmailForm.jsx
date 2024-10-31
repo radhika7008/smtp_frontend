@@ -237,7 +237,7 @@ const SmtpUI = ({ setResult }) => {
   };
 
   return (
-    <Box sx={{ padding: "9px", backgroundColor: "#1E1E1E" }}>
+    <Box sx={{ padding: "26px", backgroundColor: "#1E1E1E" }}>
       <ToastContainer />
       <Box sx={{ display: "flex" }}>
         <Box sx={{ width: "70%", marginRight: "10px" }}>
